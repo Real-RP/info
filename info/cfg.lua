@@ -2,7 +2,7 @@
 local cfg = {}
 -- you can set your own messages here! ;)
 cfg.messages = {
-	message1 = "^*Join can join The teamspeak from: SERVERNAME here: TEAMSPEAK", --this set's your messages on the defined commands
+	message1 = "^*You can join The teamspeak from: SERVERNAME here: TEAMSPEAK", --this set's your messages on the defined commands
 	message2 = "^*look at our website here: .... ", --this set's your messages on the defined commands	
 	message3 = "^*do /ts3 for Teamspeak3, /list to show this text, /servername to show the name of this server, /youtube for youtube, /twitch for twitch acc., /donate to donate to a link, /website for our site.", --this set's your messages on the defined commands	
 	message4 = "^*you've forgot our servername??? here it is: cutomname ", --this set's your messages on the defined commands	
